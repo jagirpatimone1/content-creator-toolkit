@@ -1,0 +1,12 @@
+{
+  "title_template": "{topic} — Quick Update & Key Details",
+  "description_template": "A quick breakdown of {topic}. Follow for more fresh updates and useful content.",
+  "hashtags": [
+    "Shorts",
+    "Trending",
+    "News",
+    "Update"
+  ],
+  "max_hashtags": 7,
+  "tags_template": "{topic}, trending, news, shorts, update"
+}
